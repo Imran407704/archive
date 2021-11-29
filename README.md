@@ -36,9 +36,13 @@ go get github.com/tomnomnom/waybackurls
 
 GO111MODULE=on go get -u -v github.com/bp0lr/gauplus
 
+-------------------------------------------------------------------------------
+
 Make Sure You Have the access this tools from anywhere Globally in Terminal !!!
 
 If you Don't know what I mean then Google it ( Hint:- /usr/local/bin ) 
+
+-------------------------------------------------------------------------------
 
 ## Authors
 
