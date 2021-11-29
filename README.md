@@ -5,6 +5,10 @@ This is a Simple Bash Script for Automating Some repetative Task.
 
 This script take urls from 3 passive tools like Get-All-Urls, Waybackurls, Gau-Plus...
 
+This script get all the urls, combine to a single file & and remove Duplicates !!!
+
+This Script is very Helpful For Bug-Hunters bcoz it automates some booring repetative Tasks :)
+
 ## How to Install this Script ?
 
 To install this script run following command
