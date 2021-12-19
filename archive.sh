@@ -44,7 +44,7 @@ echo "Directory Is Creating"
 mkdir -p archive 
 echo "Directory is Created"
 echo "Get all urls is Starting "
-gau -o archive/gau.txt $domain
+gau --o archive/gau.txt $domain
 echo "GAU IS COMPLETED"
 echo "WayBack is Starting"
 echo "$domain" | waybackurls > archive/waybackurls.txt
